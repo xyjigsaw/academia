@@ -6,7 +6,7 @@ let dom2 = document.getElementById("net2");
 let myChart2 = echarts.init(dom2);
 myChart2.showLoading();
 
-$.get('../data/academia.gexf', function (xml) {
+$.get('data/academia.gexf', function (xml) {
     myChart1.hideLoading();
     myChart2.hideLoading();
 
