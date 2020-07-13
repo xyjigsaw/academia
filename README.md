@@ -1,6 +1,6 @@
 # academia
 
-Scientific Domain/Field Visualization
+Scientific Domain/Field Relation Visualization
 
 **WEBSITE**: [academia](https://xyjigsaw.github.io/academia/) 
 
